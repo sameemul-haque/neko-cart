@@ -11,3 +11,7 @@
 <br><br>
 <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="bootstrap" height="40"/>  Bootstrap
 <br><br>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/>  Git
+<br><br>
+<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" height="40"/>  Github
+<br><br>
